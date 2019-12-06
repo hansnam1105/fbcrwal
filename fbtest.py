@@ -5,9 +5,9 @@ import facebook
 import openpyxl
 
 
-token = '2418498638416310|3aba3f0a42a296a291a91837d4891922'
+token = '페이스북 GRAPH API 토큰 삽입'
 graph = facebook.GraphAPI(access_token=token, version="3.1")
-wb = openpyxl.load_workbook('samlak.xlsx')
+wb = openpyxl.load_workbook('samlak.xlsx') #분석 내용 저장할 엑셀 파일 이름
 
 sheet1 = wb.active
 
