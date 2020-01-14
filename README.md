@@ -7,7 +7,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=imsam77&logNo=221258133789&proxyRef
 크롤링 코드<br>
 https://blog.naver.com/PostView.nhn?blogId=imsam77&logNo=221260229647&proxyReferer=https%3A%2F%2Fwww.google.com%2F<br>
 
-Requirements<br>
+Requirements & Procedure<br>
 1. Facebook Graph API Token
 2. Facebook Page Public Content Access
 3. (if possible) Mange_pages & Publish_pages Access
