@@ -20,3 +20,12 @@ https://blog.naver.com/PostView.nhn?blogId=imsam77&logNo=221260229647&proxyRefer
 우선 페이스북 Graph API를 통하여 수집 데이터를 JSON으로 저장한다.<br>
 그후 JSON에 있는 message를 엑셀로 정리하도록 프로그램을 설계한다.<br>
 정리된 엑셀에서 텍스트 마이닝으로 형태소를 분석한다.<br>
+
+## Procedure
+![procedure](https://github.com/hansnam1105/fbcrwal/blob/master/example/ex1.png)
+
+## Procedure2
+![procedure2](https://github.com/hansnam1105/fbcrwal/blob/master/example/ex2.png)
+
+## Result
+![result](https://github.com/hansnam1105/fbcrwal/blob/master/example/ex3.png)
